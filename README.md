@@ -31,4 +31,4 @@ Tables are quite useful.
 | 1   | This is item number one. |
 | 2 | This item number two. |
 
-Adding a [pythocat](https://octodex.github.com/images/pythocat.png)
+Adding an embedded ![pythocat](https://octodex.github.com/images/pythocat.png)
