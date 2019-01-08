@@ -1,8 +1,10 @@
-# The title of document
+# The title
 
-A very small introduction to the document, followed by a horizontal line.
+A very small introduction to the document, followed by a horizontal line...
 
 ---
+
+And some comment.
 
 ## A table of content
 
