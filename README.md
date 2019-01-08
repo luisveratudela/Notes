@@ -7,7 +7,7 @@ A very small introduction to the document, followed by a horizontal line.
 ## A table of content
 
 1 [Text and code](#text-and-code)
-2 [Other stuff](#other-stuff)
+2 [Tables and figures](#tables-and-figures)
 
 ### Text and code
 
@@ -22,6 +22,13 @@ data = pd.DataFrame(mydata)
 
 And explained via external [link](https://pandas.pydata.org/).
 
-### Other stuff
+### Tables and figures
 
-Tables are quite useful.
+Tables are quite useful. 
+
+| Item | Description |
+| --- | --- |
+| 1   | This is item number one. |
+| 2 | This item number two. |
+
+Adding one [figure from web folder](https://octodex.github.com/images/yaktocat.png)
