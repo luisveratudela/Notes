@@ -15,7 +15,7 @@ And some comment.
 
 Some `code` will be explained in-line.
 
-Other will be highlighted to better readability.
+Other will be highlighted for better readability.
 
 ```python
 import pandas as import pd
