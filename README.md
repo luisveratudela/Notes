@@ -6,7 +6,7 @@ A very small introduction to the document, followed by a horizontal line...
 
 And some comment.
 
-## A table of content
+## A table of contents
 
 1 [Text and code](#text-and-code)
 2 [Tables and figures](#tables-and-figures)
@@ -24,6 +24,8 @@ data = pd.DataFrame(mydata)
 
 And explained via external [link](https://pandas.pydata.org/).
 
+Before the next section, get the chance to go back to [the table of contents](#a-table-of-contents)
+
 ### Tables and figures
 
 Tables are quite useful. 
@@ -35,3 +37,5 @@ Tables are quite useful.
 
 Adding an embedded image, say a pythocat: 
 ![pythocat](https://octodex.github.com/images/pythocat.png)
+
+Before the next section, get the chance to go back to [the table of contents](#a-table-of-contents)
