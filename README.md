@@ -34,6 +34,7 @@ Tables are quite useful.
 | --- | --- |
 | 1   | This is item number one. |
 | 2 | This item number two. |
+| 3 | This item number three. |
 
 Adding an embedded image, say a pythocat: 
 ![pythocat](https://octodex.github.com/images/pythocat.png)
