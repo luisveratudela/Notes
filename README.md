@@ -30,6 +30,8 @@ Before the next section, get the chance to go back to [the table of contents](#a
 
 Tables are quite useful. They help me remember stuff, like git commands.
 
+For example, here are my notes a [git guide](http://rogerdudler.github.io/git-guide/)
+
 | Item | Description |
 | --- | --- |
 | 1   | git pull - to update my local repository. |
