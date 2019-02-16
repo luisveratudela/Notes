@@ -28,15 +28,16 @@ Before the next section, get the chance to go back to [the table of contents](#a
 
 ### Tables and figures
 
-Tables are quite useful. 
+Tables are quite useful. They help me remember stuff, like git commands.
 
 | Item | Description |
 | --- | --- |
-| 1   | This is item number one. |
-| 2 | This item number two. |
-| 3 | This item number three. |
+| 1   | git pull - to update my local repository. |
+| 2 | git add * - to add my new files to remote repository . |
+| 3 | git commit -m "message" - to explain changes. |
+| 4 | git push origin master - to change the master. |
 
-Adding an embedded image, say a pythocat: 
+Adding an embedded image, say a pythocat:
 ![pythocat](https://octodex.github.com/images/pythocat.png)
 
 Before the next section, get the chance to go back to [the table of contents](#a-table-of-contents)
